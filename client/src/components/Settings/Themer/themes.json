@@ -3,7 +3,7 @@
     {
       "name": "blackboard",
       "colors": {
-        "background": "#1a1a1ab5",
+        "background": "#1a1a1acf",
         "primary": "#FFFDEA",
         "accent": "#5c5c5c"
       }
@@ -11,7 +11,7 @@
     {
       "name": "gazette",
       "colors": {
-        "background": "#F2F7FFb5",
+        "background": "#F2F7FFcf",
         "primary": "#000000",
         "accent": "#5c5c5c"
       }
@@ -19,15 +19,15 @@
     {
       "name": "espresso",
       "colors": {
-        "background": "#21211Fb5",
-        "primary": "#D1B59A",
+        "background": "#21211Fcf",
+        "primary": "#D1cf9A",
         "accent": "#4E4E4E"
       }
     },
     {
       "name": "cab",
       "colors": {
-        "background": "#F6D305b5",
+        "background": "#F6D305cf",
         "primary": "#1F1F1F",
         "accent": "#424242"
       }
@@ -35,7 +35,7 @@
     {
       "name": "cloud",
       "colors": {
-        "background": "#f1f2f0b5",
+        "background": "#f1f2f0cf",
         "primary": "#35342f",
         "accent": "#37bbe4"
       }
@@ -43,7 +43,7 @@
     {
       "name": "lime",
       "colors": {
-        "background": "#263238b5",
+        "background": "#263238cf",
         "primary": "#AABBC3",
         "accent": "#aeea00"
       }
@@ -51,7 +51,7 @@
     {
       "name": "white",
       "colors": {
-        "background": "#ffffffb5",
+        "background": "#ffffffcf",
         "primary": "#222222",
         "accent": "#dddddd"
       }
@@ -59,7 +59,7 @@
     {
       "name": "tron",
       "colors": {
-        "background": "#242B33b5",
+        "background": "#242B33cf",
         "primary": "#EFFBFF",
         "accent": "#6EE2FF"
       }
@@ -67,7 +67,7 @@
     {
       "name": "blues",
       "colors": {
-        "background": "#2B2C56b5",
+        "background": "#2B2C56cf",
         "primary": "#EFF1FC",
         "accent": "#6677EB"
       }
@@ -75,7 +75,7 @@
     {
       "name": "passion",
       "colors": {
-        "background": "#f5f5f5b5",
+        "background": "#f5f5f5cf",
         "primary": "#12005e",
         "accent": "#8e24aa"
       }
@@ -83,7 +83,7 @@
     {
       "name": "chalk",
       "colors": {
-        "background": "#263238b5",
+        "background": "#263238cf",
         "primary": "#AABBC3",
         "accent": "#FF869A"
       }
@@ -91,7 +91,7 @@
     {
       "name": "paper",
       "colors": {
-        "background": "#F8F6F1b5",
+        "background": "#F8F6F1cf",
         "primary": "#4C432E",
         "accent": "#AA9A73"
       }
@@ -99,7 +99,7 @@
     {
       "name": "neon",
       "colors": {
-        "background": "#091833b5",
+        "background": "#091833cf",
         "primary": "#EFFBFF",
         "accent": "#ea00d9"
       }
@@ -107,7 +107,7 @@
     {
       "name": "pumpkin",
       "colors": {
-        "background": "#2d3436b5",
+        "background": "#2d3436cf",
         "primary": "#EFFBFF",
         "accent": "#ffa500"
       }
@@ -115,7 +115,7 @@
     {
       "name": "onedark",
       "colors": {
-        "background": "#282c34b5",
+        "background": "#282c34cf",
         "primary": "#dfd9d6",
         "accent": "#98c379"
       }
