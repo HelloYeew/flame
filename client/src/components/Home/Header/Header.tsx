@@ -48,6 +48,7 @@ export const Header = (): JSX.Element => {
           <WeatherWidget />
         </span>
       )}
+      <h2 className={classes.MamizuApplause}>What about you, Takuya-kun? Please do your best to become happy for my sake. I am praying for your happiness from the bottom of my heart.</h2>
     </header>
   );
 };
