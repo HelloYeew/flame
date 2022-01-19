@@ -1,3 +1,11 @@
+> # Note about this fork
+> 
+> I added some element and styling to the site that is I want in my own styling and what I want in startpage. If you want to try, the development and deploy method is the same as original Flame. You can try it!
+> 
+> I change the name because I change most of the theme to the Watarase Mamizu of *You Shine in the Moonlit Night*. That's why I change it but all credit still go to the original repositories
+> 
+> Note that some element you cannot change by the site settings because I attend that I use it for only my computer and I can touch the source code in my deployed server everytime.
+
 # Flame
 
 ![Homescreen screenshot](.github/home.png)
