@@ -60,6 +60,11 @@ body {
   font-size: 14px;
 }
 
+::selection {
+  color: var(--color-background);
+  background: var(--color-accent);
+}
+
 a {
   color: var(--color-primary);
   text-decoration: none;
