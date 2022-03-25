@@ -52,7 +52,8 @@ body {
   --color-accent: #6ee2ff;
   --spacing-ui: 10px;
 
-  background: linear-gradient(0deg,var(--color-background),var(--color-background)),url("./assets/img/twin.jpg") top center!important;
+  /*background: linear-gradient(0deg,var(--color-background),var(--color-background)),url("./assets/img/twin.jpg") top center!important;*/
+  background: linear-gradient(0deg,var(--color-background),var(--color-background)),url("./assets/img/kimi-wa-tsukiyo-ni-hikarikayaku.png") top center!important;
   background-size: cover!important;
   /*background-color: var(--color-background);*/
   transition: background-color 0.3s;
